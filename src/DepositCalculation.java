@@ -9,6 +9,8 @@ public class DepositCalculation {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Введите сумму вклада в рублях:");
+        System.out.println("Введите сумму вклада в рублях:");
+        System.out.println("Введите сумму вклада в рублях:");
         int amount = scanner.nextInt();
 
         System.out.println("Введите срок вклада в годах:");
